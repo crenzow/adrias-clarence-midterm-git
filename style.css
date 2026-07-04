@@ -24,3 +24,11 @@ p {
   padding: 15px;
   border-radius: 8px;
 }
+
+#about-me {
+  max-width: 600px;
+  margin: 20px auto;
+  background: #eef6f9;
+  padding: 15px;
+  border-radius: 8px;
+}
